@@ -1,4 +1,3 @@
-# Victor Mwendwa
 
 <h1 align="center">Hi, I'm Victor Mwendwa 👋</h1>
 
