@@ -30,7 +30,6 @@ ______________________________________________________________________
 
 <div align="center">
     <h1>About Me</h1>
-    <p>I am a dedicated Backend Software Engineer...</p>
 </div>
 
 I am a dedicated Backend Software Engineer with over 2 years of experience and a graduate of the ALX Software Engineering Program. My journey in software engineering began with a passion for leveraging backend technologies to solve real-world problems. I specialize in:
