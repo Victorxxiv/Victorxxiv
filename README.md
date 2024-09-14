@@ -40,7 +40,10 @@ I am a dedicated Backend Software Engineer with over 2 years of experience and a
 
 ______________________________________________________________________
 
-### Skills & Technologies
+<div align="center">
+    <h1>Skills & Technologies</h1>
+    <!-- Skills and Technologies content -->
+</div>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
@@ -61,7 +64,10 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
-### Featured Projects
+<div align="center">
+    <h1>Featured Projects</h1>
+    <!-- Featured Projects content -->
+</div>
 
 - [Python ORM Algorithms]: Implemented object-relational mapping algorithms in Python to streamline database interactions.
 - [Star Wars API]: Developed a Node.js application that interacts with external APIs to fetch and display Star Wars character data.
@@ -69,13 +75,19 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
-### What Inspires Me
+<div align="center">
+    <h1>What Inspires Me</h1>
+    <!-- What Inspires Me content -->
+</div>
 
 I'm inspired by the endless possibilities of backend engineering and how it can be used to solve complex problems. Whether it's building a scalable API or optimizing database queries, I am driven by the challenge of making systems more efficient and reliable.
 
 ______________________________________________________________________
 
-### Let's Connect
+<div align="center">
+    <h1>Let's Connect</h1>
+    <!-- Let's Connect content -->
+</div>
 
 Feel free to reach out for collaboration, job opportunities, or to chat about backend development.
 
