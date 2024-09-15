@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Victor Mwendwa 👋</h1>
+<h1 align="center">Hello! I'm Victor Mwendwa 👋</h1>
 
 <p align="center">
     <strong>Back-End Software Engineer</strong>
@@ -53,6 +53,8 @@ ______________________________________________________________________
     <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-SQLAlchemy-CA1F00?logo=sqlalchemy&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Git-181717?logo=git&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
@@ -60,6 +62,7 @@ ______________________________________________________________________
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square"/>
 </p>
 
