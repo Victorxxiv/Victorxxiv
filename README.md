@@ -71,7 +71,7 @@ ______________________________________________________________________
 <div align="center">
     <h1>Featured Projects</h1>
     <!-- Featured Projects content -->
-<div>
+</div>
 
 - Python ORM Algorithms: Implemented object-relational mapping algorithms in Python to streamline database interactions.
 - [Star Wars API](https://github.com/Victorxxiv/alx-interview/tree/main/0x06-starwars_api): Developed a Node.js application that interacts with external APIs to fetch and display Star Wars character data.
