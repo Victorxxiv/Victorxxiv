@@ -77,8 +77,6 @@ ______________________________________________________________________
 - [Star Wars API](https://github.com/Victorxxiv/alx-interview/tree/main/0x06-starwars_api): Developed a Node.js application that interacts with external APIs to fetch and display Star Wars character data.
 - [Backend System for Queuing]: Built a robust queuing system using Node.js, ExpressJS, and Redis, focusing on scalability and performance.
 - [THE24 Blog Website](https://github.com/Victorxxiv/THE24_Website): Built using Django and Python for the backend, with HTML, CSS, and JavaScript for the frontend.
-  
-</div>
 
 ______________________________________________________________________
 
