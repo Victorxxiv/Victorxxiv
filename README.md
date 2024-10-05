@@ -106,6 +106,9 @@ Feel free to reach out for collaboration, job opportunities, or to chat about ba
     <a href="https://wa.me/254705512804" target="_blank">
         <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp">
     </a>
+    <a href="https://x.com/Xxiv_Victor" target="_blank">
+        <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X">
+    </a>
     <a href="https://www.instagram.com/xxiv_victor/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
     </a>
@@ -114,9 +117,6 @@ Feel free to reach out for collaboration, job opportunities, or to chat about ba
     </a>
     <a href="https://github.com/Victorxxiv" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
-    </a>
-    <a href="https://x.com/Xxiv_Victor" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter">
     </a>
 </p>
 ______________________________________________________________________
