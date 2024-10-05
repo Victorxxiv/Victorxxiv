@@ -98,25 +98,25 @@ Feel free to reach out for collaboration, job opportunities, or to chat about ba
 
 <p align="center">
     <a href="https://www.linkedin.com/in/victor-mwendwa-283577202/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
     </a>
     <a href="mailto:victormwendwa804@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
     </a>
     <a href="https://wa.me/254705512804" target="_blank">
-        <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp">
+        <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
     </a>
     <a href="https://x.com/Xxiv_Victor" target="_blank">
-        <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X">
+        <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X">
     </a>
     <a href="https://www.instagram.com/xxiv_victor/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
     </a>
     <a href="https://discord.com/channels/@me" target="_blank">
-        <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord">
+        <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
     </a>
     <a href="https://github.com/Victorxxiv" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
+        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
 </p>
 ______________________________________________________________________
