@@ -103,6 +103,9 @@ Feel free to reach out for collaboration, job opportunities, or to chat about ba
     <a href="mailto:victormwendwa804@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail">
     </a>
+    <a href="https://wa.me/254705512804" target="_blank">
+        <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp">
+    </a>
     <a href="https://www.instagram.com/xxiv_victor/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
     </a>
@@ -116,7 +119,6 @@ Feel free to reach out for collaboration, job opportunities, or to chat about ba
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter">
     </a>
 </p>
-
 ______________________________________________________________________
 
 <p align="center">
