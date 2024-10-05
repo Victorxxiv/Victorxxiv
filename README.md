@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD343&style=flat-square"/>
+    <img src="https://image-link-to-3d-python-logo.png" alt="Python" width="40" height="40">
     <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
