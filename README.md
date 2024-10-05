@@ -107,7 +107,7 @@ Feel free to reach out for collaboration, job opportunities, or to chat about ba
         <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" style="width: 50px; height: 50px;"/>
     </a>
     <a href="https://x.com/Xxiv_Victor" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/twitter-circled.png" alt="X" style="width: 50px; height: 50px;"/>
+        <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X" style="width: 50px; height: 50px;"/>
     </a>
     <a href="https://www.instagram.com/xxiv_victor/" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" style="width: 50px; height: 50px;"/>
