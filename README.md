@@ -2,7 +2,7 @@
 <h1 align="center">Hello! I'm Victor Mwendwa 👋</h1>
 
 <p align="center">
-    <strong>Back-End Software Engineer</strong>
+    <strong>Software Engineer</strong>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ ______________________________________________________________________
     <h1>About Me</h1>
 </div>
 
-I am a dedicated Backend Software Engineer with over 3 years of experience and a graduate of the ALX Software Engineering Program. My journey in software engineering began with a passion for leveraging backend technologies to solve real-world problems. I specialize in:
+I am a dedicated Software Engineer with over 3 years of experience and a graduate of the ALX Software Engineering Program. My journey in Software Engineering began with a passion for leveraging backend technologies to solve real-world problems. I specialize in:
 
 - Backend Development: Crafting scalable and efficient backend solutions with Python, Flask, and Django.
 - Database Management: Managing and optimizing data with PostgreSQL and SQLAlchemy.
@@ -84,7 +84,7 @@ ______________________________________________________________________
     <!-- What Inspires Me content -->
 </div>
 
-I'm inspired by the endless possibilities of backend engineering and how it can be used to solve complex problems. Whether it's building a scalable API or optimizing database queries, I am driven by the challenge of making systems more efficient and reliable.
+I'm inspired by the endless possibilities of Software Engineering and how it can be used to solve complex problems. Whether it's building a scalable API or optimizing database queries, I am driven by the challenge of making systems more efficient and reliable.
 
 ______________________________________________________________________
 
@@ -93,7 +93,7 @@ ______________________________________________________________________
     <!-- Let's Connect content -->
 </div>
 
-Feel free to reach out for collaboration, job opportunities, or to chat about backend development.
+Feel free to reach out for collaboration, job opportunities, or to chat about Software Engineering.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/victor-mwendwa-283577202/" target="_blank">
