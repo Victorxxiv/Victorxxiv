@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-    🔥 I’m an African Leadership Experience(ALX) Certified Software Engineer 🎓
+    🔥 I’m an African Leadership Experience(ALX Africa) Certified Software Engineer 🎓
 </p>  
 <img src="https://github.com/Victorxxiv/Victor-Mwendwa/raw/main/My_Certificates/Certificate-victor-mwendwa.png" alt="ALX SE Certificate" width="800" height="auto"/>
 
