@@ -41,7 +41,7 @@ I am a dedicated Software Engineer with over 3 years of experience and a graduat
 ______________________________________________________________________
 
 <div align="center">
-    <h1>Skills & Technologies</h1>
+    <h1>Skills, Tools & Technologies</h1>
     <!-- Skills and Technologies content -->
 </div>
 
@@ -49,14 +49,14 @@ ______________________________________________________________________
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD343&style=flat-square"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-SQLAlchemy-CA1F00?logo=sqlalchemy&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Git-181717?logo=git&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-REST%20APIs-0088CC?logo=api&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square"/>
