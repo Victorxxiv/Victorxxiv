@@ -2,7 +2,7 @@
 <h1 align="center">Hello! I'm Victor Mwendwa 👋</h1>
 
 <p align="center">
-    <strong>Software Engineer</strong>
+    <strong>A Software Engineer</strong>
 </p>
 
 <p align="center">
