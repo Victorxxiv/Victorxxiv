@@ -48,8 +48,8 @@ ______________________________________________________________________
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD343&style=flat-square"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/-SQLAlchemy-CA1F00?logo=sqlalchemy&logoColor=white&style=flat-square"/>
