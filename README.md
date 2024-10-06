@@ -30,7 +30,7 @@ ______________________________________________________________________
     <h1>About Me</h1>
 </div>
 
-I am a dedicated Backend Software Engineer with over 2 years of experience and a graduate of the ALX Software Engineering Program. My journey in software engineering began with a passion for leveraging backend technologies to solve real-world problems. I specialize in:
+I am a dedicated Backend Software Engineer with over 3 years of experience and a graduate of the ALX Software Engineering Program. My journey in software engineering began with a passion for leveraging backend technologies to solve real-world problems. I specialize in:
 
 - Backend Development: Crafting scalable and efficient backend solutions with Python, Flask, and Django.
 - Database Management: Managing and optimizing data with PostgreSQL and SQLAlchemy.
