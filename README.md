@@ -74,7 +74,7 @@ ______________________________________________________________________
 
 - Python ORM Algorithms: Implemented object-relational mapping algorithms in Python to streamline database interactions.
 - [Star Wars API](https://github.com/Victorxxiv/alx-interview/tree/main/0x06-starwars_api): Developed a Node.js application that interacts with external APIs to fetch and display Star Wars character data.
-- [THE24 Blog Website](https://github.com/Victorxxiv/THE24_Website): Built using Python, Django and Postgresql for the Back-End, with HTML, CSS, and JavaScript for the Front-End.
+- [THE24 TECH Solutions](https://github.com/Victorxxiv/THE24_Website): Built using Python, Django and Postgresql for the Back-End, with HTML, CSS, and JavaScript for the Front-End.
 - Backend System for Queuing: Built a robust queuing system using Node.js, ExpressJS, and Redis, focusing on scalability and performance.
 
 ______________________________________________________________________
