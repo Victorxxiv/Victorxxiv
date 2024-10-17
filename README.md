@@ -117,6 +117,9 @@ Feel free to reach out for collaboration, job opportunities, or to chat about So
     <a href="https://github.com/Victorxxiv" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="width: 50px; height: 50px;"/>
     </a>
+    <a href="https://the24techsolutions.hashnode.dev/" target="_blank">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" style="width: 50px; height: 50px;"/>
+    </a>
 </p>
 ______________________________________________________________________
 
