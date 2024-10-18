@@ -124,5 +124,5 @@ Feel free to reach out for collaboration, job opportunities, or to chat about So
 ______________________________________________________________________
 
 <p align="center">
-    <em>“Backend technologies are the gears that make the digital world turn.”</em>
+    <em>“Backend Technologies are the gears that make the digital world turn.”</em>
 </p>
